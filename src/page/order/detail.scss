@@ -1,0 +1,74 @@
+.p-img {
+    display: block;
+    width: 80px;
+    height: 80px;
+}
+
+
+.order-status-unpay {
+    background-color: #B42F2D;
+    padding: 4px 8px;
+    border-radius: 2px;
+    color: white;
+  
+}
+
+.order-status-payed {
+    background-color: #AB956D;
+    padding: 4px 8px;
+    border-radius: 2px;
+    color: white;
+ 
+}
+
+.order-status-done {
+    background-color: #57AB53;
+    padding: 4px 8px;
+    border-radius: 2px;
+    color: white;
+
+}
+.order-status-unstock{
+    background-color: rgb(10, 12, 10);
+    padding: 4px 8px;
+    border-radius: 2px;
+    color: white;
+}
+
+
+
+.order-btn-done {
+    background-color: #57AB53;
+    padding: 4px 15px;
+    border-radius: 2px;
+    color: white;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.8);
+    
+}
+.order-btn-done:hover {
+    padding: 4px 15px;
+        border-radius: 2px;
+        color: white;
+        background-color: #333333;
+        cursor: pointer;
+        box-shadow: 0 0 6px #000000;
+}
+
+.order-btn-unstock {
+    padding: 4px 15px;
+    border-radius: 2px;
+    color: white;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.8);
+    cursor: pointer;
+    background-color: #B42F2D;
+    
+}
+.order-btn-unstock:hover {
+    padding: 4px 15px;
+    border-radius: 2px;
+    color: white;
+    background-color: #333333;
+    cursor: pointer;
+    box-shadow: 0 0 6px #000000;
+}
+
